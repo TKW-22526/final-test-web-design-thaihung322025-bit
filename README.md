@@ -177,8 +177,8 @@ Sinh viên cập nhật thông tin cá nhân tại đây:
 ```text
 Họ và tên: Thạch Thái Hưng
 Mã số sinh viên: 110124069
-Lớp:DA24TTC
-Tên đề tài:Thế Giới Công Nghệ Trong Tầm Tay
+Lớp: DA24TTC
+Tên đề tài: Thế Giới Công Nghệ Trong Tầm Tay PC MART
 Liên kết GitHub repository:https://github.com/TKW-22526/final-test-web-design-thaihung322025-bit.git
 Liên kết GitHub Pages:https://tkw-22526.github.io/final-test-web-design-thaihung322025-bit/
 
