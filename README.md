@@ -175,10 +175,11 @@ Sinh viên cần nộp đầy đủ các nội dung sau:
 Sinh viên cập nhật thông tin cá nhân tại đây:
 
 ```text
-Họ và tên:
-Mã số sinh viên:
-Lớp:
-Tên đề tài:
-Liên kết GitHub repository:
-Liên kết GitHub Pages:
+Họ và tên: Thạch Thái Hưng
+Mã số sinh viên: 110124069
+Lớp:DA24TTC
+Tên đề tài:Thế Giới Công Nghệ Trong Tầm Tay
+Liên kết GitHub repository:https://github.com/TKW-22526/final-test-web-design-thaihung322025-bit.git
+Liên kết GitHub Pages:https://tkw-22526.github.io/final-test-web-design-thaihung322025-bit/
+
 ```
