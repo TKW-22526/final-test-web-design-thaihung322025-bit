@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;600;700&display=swap');
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Card đồng đều */
+.product-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.product-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1) !important;
+}
+
+.product-card .card-img-top {
+    object-fit: contain;
+    height: 200px;
+    background-color: #fff;
+}
+
+/* Thumbnail ở trang chi tiết */
+.thumb-img {
+    cursor: pointer;
+    transition: 0.2s;
+    border: 2px solid transparent;
+}
+.thumb-img:hover, .thumb-img.active {
+    border-color: #0d6efd;
+}
+
+/* Nút bấm giỏ hàng */
+.btn-primary {
+    background-color: #0d6efd;
+    border: none;
+}
+.btn-primary:hover {
+    background-color: #0b5ed7;
+}
